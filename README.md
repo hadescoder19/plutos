@@ -1,2 +1,3 @@
 # pnpios-
-beta version of an os, all set up. you can download and edit it if you want.
+beta version of an os.
+version beta 0.2.2
